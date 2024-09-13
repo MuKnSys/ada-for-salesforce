@@ -1,6 +1,6 @@
 # ADA for Salesforce
 
-![](documentation-and-images/ADA-for-Salesforce-logo.png)
+![](https://github.com/MuKnSys/ada-for-salesforce/blob/main/documentation-and-images/ADA-wallet-Salesforce-logo.png)
 
 ## Copyright and License
 
