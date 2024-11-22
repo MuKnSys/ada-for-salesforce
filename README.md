@@ -1,6 +1,6 @@
 # ADA for Salesforce
 
-![](https://github.com/MuKnSys/ada-for-salesforce/blob/main/documentation-and-images/ADA-wallet-Salesforce-logo.png)
+![](documentation-and-images/ADA-for-Salesforce-thumbnail.png)
 
 ADA for Salesforce is an open source solution for using the Cardano Network to send and receive payments into Salesforce. ADA for Salesforce monitors the blockchain, so it  should work with any popular Cardano wallet users want to use.
 
